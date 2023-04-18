@@ -2,7 +2,7 @@
 $DATABASE_HOST='localhost';
 $DATABASE_USER='root';
 $DATABASE_PASS='';
-$DATABASE_NAME='form';
+$DATABASE_NAME='test_db';
 
 
 $con=mysqli_connect($DATABASE_HOST,$DATABASE_USER,$DATABASE_PASS, $DATABASE_NAME);
