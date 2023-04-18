@@ -1,4 +1,4 @@
-<!-- here users will enter there data -->
+<!-- here users will enter login data -->
 
 <!DOCTYPE html>
 <html lang="en">

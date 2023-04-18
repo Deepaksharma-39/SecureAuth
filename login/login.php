@@ -23,6 +23,7 @@ $stmt->bind_param('s', $_POST['username']);
 $stmt->execute();
 $result = $stmt->get_result();
 $user = $result->fetch_assoc();
+echo $user;
 $stmt->close();
 
 // Verify the password
