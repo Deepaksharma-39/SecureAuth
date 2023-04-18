@@ -19,9 +19,10 @@ Features:
 Technologies Used:
 
 PHP: The authentication system is built using PHP, a popular server-side programming language for web development.
+
 MySQL: The system uses a MySQL database to store user information securely.
 Encryption Algorithms: SecureAuth uses encryption algorithms to encrypt and secure user passwords.
-HTML: The front-end of the system is built using HTML, the standard markup language for creating web pages.
+
 CSS: The system is styled using CSS, a stylesheet language used for describing the presentation of a document written in HTML.
 
 How to Use:
